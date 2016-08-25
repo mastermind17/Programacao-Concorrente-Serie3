@@ -1,0 +1,5 @@
+C:\Users\mastermind\stuff\isel\pc\ses\pc_se3\Ex3_TAP\bin\Debug\Ex3_TAP.exe.config
+C:\Users\mastermind\stuff\isel\pc\ses\pc_se3\Ex3_TAP\bin\Debug\Ex3_TAP.exe
+C:\Users\mastermind\stuff\isel\pc\ses\pc_se3\Ex3_TAP\bin\Debug\Ex3_TAP.pdb
+C:\Users\mastermind\stuff\isel\pc\ses\pc_se3\Ex3_TAP\obj\Debug\Ex3_TAP.exe
+C:\Users\mastermind\stuff\isel\pc\ses\pc_se3\Ex3_TAP\obj\Debug\Ex3_TAP.pdb

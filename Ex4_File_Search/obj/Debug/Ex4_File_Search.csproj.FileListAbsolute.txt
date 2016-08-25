@@ -1,0 +1,6 @@
+C:\Users\mastermind\stuff\isel\pc\ses\pc_se3\Ex4_File_Search\bin\Debug\Ex4_File_Search.exe.config
+C:\Users\mastermind\stuff\isel\pc\ses\pc_se3\Ex4_File_Search\bin\Debug\Ex4_File_Search.exe
+C:\Users\mastermind\stuff\isel\pc\ses\pc_se3\Ex4_File_Search\bin\Debug\Ex4_File_Search.pdb
+C:\Users\mastermind\stuff\isel\pc\ses\pc_se3\Ex4_File_Search\obj\Debug\Ex4_File_Search.exe
+C:\Users\mastermind\stuff\isel\pc\ses\pc_se3\Ex4_File_Search\obj\Debug\Ex4_File_Search.pdb
+C:\Users\mastermind\stuff\isel\pc\ses\pc_se3\Ex4_File_Search\obj\Debug\Ex4_File_Search.csprojResolveAssemblyReference.cache

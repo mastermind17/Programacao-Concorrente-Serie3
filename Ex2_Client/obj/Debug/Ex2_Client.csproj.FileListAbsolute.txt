@@ -1,0 +1,9 @@
+C:\Users\mastermind\stuff\isel\pc\ses\pc_se3\Ex2_Client\bin\Debug\Ex2_Client.exe.config
+C:\Users\mastermind\stuff\isel\pc\ses\pc_se3\Ex2_Client\bin\Debug\Ex2_Client.exe
+C:\Users\mastermind\stuff\isel\pc\ses\pc_se3\Ex2_Client\bin\Debug\Ex2_Client.pdb
+C:\Users\mastermind\stuff\isel\pc\ses\pc_se3\Ex2_Client\obj\Debug\Ex2_Client.csprojResolveAssemblyReference.cache
+C:\Users\mastermind\stuff\isel\pc\ses\pc_se3\Ex2_Client\obj\Debug\Ex2_Client.Form1.resources
+C:\Users\mastermind\stuff\isel\pc\ses\pc_se3\Ex2_Client\obj\Debug\Ex2_Client.Properties.Resources.resources
+C:\Users\mastermind\stuff\isel\pc\ses\pc_se3\Ex2_Client\obj\Debug\Ex2_Client.csproj.GenerateResource.Cache
+C:\Users\mastermind\stuff\isel\pc\ses\pc_se3\Ex2_Client\obj\Debug\Ex2_Client.exe
+C:\Users\mastermind\stuff\isel\pc\ses\pc_se3\Ex2_Client\obj\Debug\Ex2_Client.pdb

@@ -1,0 +1,11 @@
+C:\Users\mastermind\stuff\isel\pc\ses\pc_se3\Ex5_Client\obj\Debug\Ex5_Client.Form1.resources
+C:\Users\mastermind\stuff\isel\pc\ses\pc_se3\Ex5_Client\obj\Debug\Ex5_Client.Properties.Resources.resources
+C:\Users\mastermind\stuff\isel\pc\ses\pc_se3\Ex5_Client\obj\Debug\Ex5_Client.csproj.GenerateResource.Cache
+C:\Users\mastermind\stuff\isel\pc\ses\pc_se3\Ex5_Client\bin\Debug\Ex5_Client.exe.config
+C:\Users\mastermind\stuff\isel\pc\ses\pc_se3\Ex5_Client\bin\Debug\Ex5_Client.exe
+C:\Users\mastermind\stuff\isel\pc\ses\pc_se3\Ex5_Client\bin\Debug\Ex5_Client.pdb
+C:\Users\mastermind\stuff\isel\pc\ses\pc_se3\Ex5_Client\bin\Debug\Ex4_File_Search.exe
+C:\Users\mastermind\stuff\isel\pc\ses\pc_se3\Ex5_Client\bin\Debug\Ex4_File_Search.pdb
+C:\Users\mastermind\stuff\isel\pc\ses\pc_se3\Ex5_Client\obj\Debug\Ex5_Client.csprojResolveAssemblyReference.cache
+C:\Users\mastermind\stuff\isel\pc\ses\pc_se3\Ex5_Client\obj\Debug\Ex5_Client.exe
+C:\Users\mastermind\stuff\isel\pc\ses\pc_se3\Ex5_Client\obj\Debug\Ex5_Client.pdb

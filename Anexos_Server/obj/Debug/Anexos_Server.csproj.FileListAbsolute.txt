@@ -1,0 +1,6 @@
+C:\Users\mastermind\stuff\isel\pc\ses\pc_se3\Anexos_Server\bin\Debug\Anexos_Server.exe.config
+C:\Users\mastermind\stuff\isel\pc\ses\pc_se3\Anexos_Server\bin\Debug\Anexos_Server.exe
+C:\Users\mastermind\stuff\isel\pc\ses\pc_se3\Anexos_Server\bin\Debug\Anexos_Server.pdb
+C:\Users\mastermind\stuff\isel\pc\ses\pc_se3\Anexos_Server\obj\Debug\Anexos_Server.csprojResolveAssemblyReference.cache
+C:\Users\mastermind\stuff\isel\pc\ses\pc_se3\Anexos_Server\obj\Debug\Anexos_Server.exe
+C:\Users\mastermind\stuff\isel\pc\ses\pc_se3\Anexos_Server\obj\Debug\Anexos_Server.pdb

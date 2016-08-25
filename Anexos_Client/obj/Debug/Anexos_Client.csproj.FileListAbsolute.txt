@@ -1,0 +1,5 @@
+C:\Users\mastermind\stuff\isel\pc\ses\pc_se3\Anexos_Client\bin\Debug\Anexos_Client.exe.config
+C:\Users\mastermind\stuff\isel\pc\ses\pc_se3\Anexos_Client\bin\Debug\Anexos_Client.exe
+C:\Users\mastermind\stuff\isel\pc\ses\pc_se3\Anexos_Client\bin\Debug\Anexos_Client.pdb
+C:\Users\mastermind\stuff\isel\pc\ses\pc_se3\Anexos_Client\obj\Debug\Anexos_Client.exe
+C:\Users\mastermind\stuff\isel\pc\ses\pc_se3\Anexos_Client\obj\Debug\Anexos_Client.pdb

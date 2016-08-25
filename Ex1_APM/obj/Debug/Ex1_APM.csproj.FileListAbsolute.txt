@@ -1,0 +1,6 @@
+C:\Users\mastermind\stuff\isel\pc\ses\pc_se3\Ex1_APM\bin\Debug\Ex1_APM.exe.config
+C:\Users\mastermind\stuff\isel\pc\ses\pc_se3\Ex1_APM\obj\Debug\Ex1_APM.csprojResolveAssemblyReference.cache
+C:\Users\mastermind\stuff\isel\pc\ses\pc_se3\Ex1_APM\bin\Debug\Ex1_APM.exe
+C:\Users\mastermind\stuff\isel\pc\ses\pc_se3\Ex1_APM\bin\Debug\Ex1_APM.pdb
+C:\Users\mastermind\stuff\isel\pc\ses\pc_se3\Ex1_APM\obj\Debug\Ex1_APM.exe
+C:\Users\mastermind\stuff\isel\pc\ses\pc_se3\Ex1_APM\obj\Debug\Ex1_APM.pdb
